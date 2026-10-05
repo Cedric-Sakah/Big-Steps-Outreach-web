@@ -213,7 +213,7 @@ export default function HomePage() {
         <section className="hero" id="home" aria-labelledby="hero-title">
           <img
             className="hero-photo"
-            src="/images/hero-team_0a435c9e.jpg"
+            src="/images/hero-team.jpg"
             alt="BONET youth and volunteers gathered outdoors in Cameroon"
             fetchPriority="high"
           />
